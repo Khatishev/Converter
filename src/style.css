@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#app {
+  text-align: center;
+  color: #333;
+  border: 2px solid grey;
+  border-radius: 10px;
+  background: rgb(178, 215, 248);
+  margin-top: 5%;
+  width: 430px;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
+input {
+  width: 80px;
+  padding: 5px;
+  border: 2px solid grey;
+  border-radius: 3px;
+  margin-right: 7px;
+  outline: none;
+}
+
+select {
+  padding: 5px;
+  border: 2px solid grey;
+  border-radius: 3px;
+  outline: none;
+}
+
+span {
+  margin: 7px;
+}
