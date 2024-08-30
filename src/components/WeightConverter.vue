@@ -10,7 +10,7 @@
         <span>=</span>
         <span>{{ convertedWeight }}</span>
         <select v-model="selectedWeightTo">
-        <option value="kilograms">Kelvin</option>
+        <option value="kilograms">Kilograms</option>
         <option value="pounds">Pounds</option>
         <option value="ounces">Ounces</option>
         </select>
